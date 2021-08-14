@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89655088895",
+    "firebase_url": "https://contactlist-dbe5f.firebaseio.com",
+    "project_id": "contactlist-dbe5f",
+    "storage_bucket": "contactlist-dbe5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89655088895:android:f800e0945c1fe43ffe1eca",
+        "android_client_info": {
+          "package_name": "com.jaskirat.skinalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89655088895-1lo39has7qv704a7pnc6nusmhgimnblu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaskirat.skinalert",
+            "certificate_hash": "4fd44dd3b4dd7af58da4bc9d51bf6670ff1379b0"
+          }
+        },
+        {
+          "client_id": "89655088895-o8u8rgg53h64v484pe032p5c2pjcthol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz2oekiV2Z7oIu-zZCdzsj4mJMOC3Pb0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89655088895-o8u8rgg53h64v484pe032p5c2pjcthol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
