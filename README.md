@@ -13,7 +13,16 @@ https://drive.google.com/drive/folders/1tGlNPriiiZKOGHTw13Ix0E9W85Gyr53i?usp=sha
 
 https://medium.com/@jaskirat_singh/skin-alert-a-skin-cancer-detection-android-app-659b3c2785c3
 
-:point_down: Screenshot:
+
+:point_down: Screenshots:
+
+<p align="center">
+  <img src="screenshots/image3.png" alt="" width="90%" height="50%">
+</p>
+
+<p align="center">
+  <img src="screenshots/image4.png" alt="" width="90%" height="50%">
+</p>
 
 <p align="center">
   <img src="screenshots/image1.png" alt="" width="90%" height="50%">
